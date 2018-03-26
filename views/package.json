@@ -1,0 +1,15 @@
+{
+  "name": "views",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "trevor",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars-layouts": "^3.1.4",
+    "hbs": "^4.0.1"
+  }
+}
