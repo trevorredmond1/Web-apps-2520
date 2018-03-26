@@ -3,6 +3,8 @@ const hbs = require('hbs');
 
 var app = express();
 
+const port = process.env.PORT || 8080;
+
 hbs.registerPartials(__dirname + '/views/partials');
 
 app.set('view engine', 'hbs');
